@@ -10,8 +10,6 @@
 
 Este repositório contém um conjunto de **Agential Skills** projetadas para o IDE **Google Antigravity**. Elas permitem que o modelo **Gemini 3** assuma o controle especializado da **Evolution API**, automatizando envios e sincronização de dados.
 
-
-
 ---
 
 ## 🧠 O que são estas Skills?
@@ -22,6 +20,8 @@ Este repositório contém um conjunto de **Agential Skills** projetadas para o I
 ---
 
 ## 📂 Estrutura do Projeto
+
+> **Nota:** Esta árvore representa a organização dos arquivos após o clone. Não copie este bloco; use os comandos de instalação abaixo.
 
 ```text
 .
@@ -36,10 +36,16 @@ Este repositório contém um conjunto de **Agential Skills** projetadas para o I
 ├── .env.example                 # Configurações de ambiente
 └── README.md                    # Documentação principal
 
-⚙️ Instalação
+```
+
+
+ Instalação
 1- Clone o Repositório:
 
+```
 git clone [https://github.com/JhonesSena/evolution-antigravity-skills.git](https://github.com/JhonesSena/evolution-antigravity-skills.git)
+```
+
 
 2- Equipe o Agente:
 Mova as pastas de skills/ para ~/.gemini/antigravity/skills/.
@@ -53,10 +59,8 @@ Se este projeto te ajudou, considere apoiar o desenvolvimento contínuo!
 
 Pix: a1f326d2-0901-4c39-b105-132be5f5b2d6
 
-Buy Me a Coffee: buymeacoffee.com/JhonesSena
-
 👨‍💻 Autor
-Jhones Sena - Desenvolvedor, Professor de Redes e entusiasta de tecnologia.
+Jhones Sena - Desenvolvedor, Professor  e entusiasta de tecnologia.
 
 📝 Licença
 Este projeto está sob licença MIT. Veja o arquivo LICENSE para mais detalhes.
